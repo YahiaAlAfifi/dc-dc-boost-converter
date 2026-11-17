@@ -84,4 +84,3 @@ The simulated design verifies the expected step-up behaviour, with the output se
 ## Notes
 
 This repository is a portfolio archive of an academic simulation project. Results are simulation-based; any hardware implementation should include appropriate component ratings, layout considerations, thermal design, and safety review.
-

@@ -1,0 +1,10 @@
+# LTspice generated simulation data
+*.raw
+*.log
+*.op.raw
+*.net
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
